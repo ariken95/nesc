@@ -1,0 +1,182 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111x",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712x",
+      "admob_native":"ca-app-pub-3940256099942544/2247696110x",
+      "backup_admob_native":"29d0d18da450ae9cx",
+      "backup_ads_banner":"ae44996e2b723dcfx",
+      "backup_ads_inter":"2838649e0b560a68x",
+      "main_ads_rewards":"ca-app-pub-3940256099942544/5224354917x",
+      "backup_ads_rewards":"4ad9a6ea35fd4390x",
+
+      "open_ads_admob": "ca-app-pub-3940256099942544/3419835294",
+      "switch_open_ads": "0",
+
+      "survey_api_key":"",
+      "interval_intertitial": 10,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://",
+      "username":"arikjuwarno",
+      "dasboard_name":"india-girl-3",
+      "dasboard_name2":"india-girl-2",
+      "dasboard_name3":"null",
+      "dasboard_name4":"null",
+      "dasboard_name5":"null",
+      "dasboard_name6":"null",
+      "dasboard_name7":"null",
+      "dasboard_name8":"null",
+      "dasboard_name9":"null",
+      "dasboard_name10":"null"
+    }
+  ],
+
+  "More":
+  [
+    {
+      "id":1,
+      "title":"Japanese Girl Fake Video Call",
+      "image":"file:///android_asset/image/japan.png",
+      "link":"https://play.google.com/store/apps/details?id=fakevideocall.kawai.japanese.girl.fakewacall"
+    },
+    {
+      "id":2,
+      "title":"Buat Istri Marah VC Sama Cewek",
+      "image":"file:///android_asset/image/japan1.png",
+      "link":"https://play.google.com/store/apps/details?id=fake.wavideo.call.prank.istri.video.call.sama.cewek.cantik"
+    },
+    {
+      "id":3,
+      "title":"Muslim Girlfriends",
+      "image":"file:///android_asset/image/japan2.png",
+      "link":"https://play.google.com/store/apps/details?id=fake.wavideocall.dengan.uhkti.akhwat.hijaber.muslimah"
+    },
+    {
+      "id":4,
+      "title":"Video Call Korean Girl",
+      "image":"file:///android_asset/image/japan3.png",
+      "link":"https://play.google.com/store/apps/details?id=koreangirl.fakecall.blackpink.jennie.jiso.lisa.rose"
+    }
+  ],
+  "Item": [
+    {
+      "id": 0,
+      "name": "India Girl",
+      "image_url": "file:///android_asset/image/indijp1.webp",
+      "video_url": "indigirl1",
+      "voice_url": "dosa_membawa_keburukan.mp3"
+    },
+    {
+      "id": 1,
+      "name": "India Girl",
+      "image_url": "file:///android_asset/image/indijp2.webp",
+      "video_url": "indigirl2",
+      "voice_url": "dosa_membawa_keburukan.mp3"
+    },
+    {
+      "id": 2,
+      "name": "India Girl",
+      "image_url": "file:///android_asset/image/indijp3.webp",
+      "video_url": "indigirl3",
+      "voice_url": "suarag1.mp3"
+    },
+    {
+      "id": 3,
+      "name": "India Girl",
+      "image_url": "file:///android_asset/image/indijp4.webp",
+      "video_url": "indigirl4",
+      "voice_url": "suarag1.mp3"
+    },
+    {
+      "id": 4,
+      "name": "India Girl",
+      "image_url": "file:///android_asset/image/indijp5.webp",
+      "video_url": "indigirl5",
+      "voice_url": "suarag1.mp3"
+    },
+    {
+      "id": 5,
+      "name": "India Girl",
+      "image_url": "file:///android_asset/image/indijp6.webp",
+      "video_url": "indigirl6",
+      "voice_url": "suarag1.mp3"
+    },
+    {
+      "id": 6,
+      "name": "India Girl",
+      "image_url": "file:///android_asset/image/indijp7.webp",
+      "video_url": "indigirl7",
+      "voice_url": "suarag1.mp3"
+    },
+    {
+      "id": 7,
+      "name": "India Girl",
+      "image_url": "file:///android_asset/image/indijp8.webp",
+      "video_url": "indigirl8",
+      "voice_url": "suarag1.mp3"
+    },
+    {
+      "id": 8,
+      "name": "India Girl",
+      "image_url": "file:///android_asset/image/indijp9.webp",
+      "video_url": "indigirl9",
+      "voice_url": "suarag1.mp3"
+    },
+    {
+      "id": 9,
+      "name": "India Girl",
+      "image_url": "file:///android_asset/image/indijp10.webp",
+      "video_url": "indigirl10",
+      "voice_url": "suarag1.mp3"
+    }
+  ],
+
+"Contact":
+[
+  {
+    "id":1,
+    "title":"India Girl",
+    "description":"Girlfriends",
+    "image":"file:///android_asset/alienboot/image/indijp3.webp",
+    "videoid":"indigirl1"
+  },
+  {
+  "id":2,
+  "title":"India Girl",
+  "description":"Girlfriends",
+  "image":"file:///android_asset/alienboot/image/indijp4.png",
+  "videoid":"indigirl1"
+  },
+  {
+    "id":3,
+    "title":"India Girl",
+    "description":"Girlfriends",
+    "image":"file:///android_asset/alienboot/image/indijp5.webp",
+    "videoid":"indigirl1"
+  },
+  {
+  "id":4,
+  "title":"India Girl",
+  "description":"Girlfriends",
+  "image":"file:///android_asset/alienboot/image/indijp6.png",
+  "videoid":"indigirl1"
+},
+  {
+  "id":4,
+  "title":"India Girl",
+  "description":"Girlfriends",
+  "image":"file:///android_asset/alienboot/image/indijp7.png",
+  "videoid":"indigirl1"
+}
+]
+
+}
