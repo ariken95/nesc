@@ -1,0 +1,127 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "admob_native":"ca-app-pub-3940256099942544/2247696110",
+      "backup_admob_native":"29d0d18da450ae9c",
+      "backup_ads_banner":"ae44996e2b723dcfx",
+      "backup_ads_inter":"2838649e0b560a68x",
+      "main_ads_rewards":"ca-app-pub-3940256099942544/5224354917",
+      "backup_ads_rewards":"4ad9a6ea35fd4390x",
+
+      "open_ads_admob": "ca-app-pub-3940256099942544/3419835294",
+      "switch_open_ads": "1",
+
+      "survey_api_key":"",
+      "interval_intertitial": 10,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://",
+      "username":"arikjuwarno",
+      "dasboard_name":"india-girl-3",
+      "dasboard_name2":"india-girl-2",
+      "dasboard_name3":"null",
+      "dasboard_name4":"null",
+      "dasboard_name5":"null",
+      "dasboard_name6":"null",
+      "dasboard_name7":"null",
+      "dasboard_name8":"null",
+      "dasboard_name9":"null",
+      "dasboard_name10":"null"
+    }
+  ],
+
+  "More":
+  [
+    {
+      "id":1,
+      "title":"ARYA SAlAKO",
+      "image":"file:///android_asset/aldebaran.png",
+      "link":"https://play.google.com/store/apps/details?id=prank.wavideocall.arya.saloka.aldebaran.offline"
+    },
+	{
+      "id":2,
+      "title":"Naisa Alifia",
+      "image":"file:///android_asset/naisaalifia.png",
+      "link":"https://play.google.com/store/apps/details?id=fake.video.call.dengan.naisa.alifia.yuriza.nay.terbaru.offline"
+    },
+	{
+      "id":3,
+      "title":"AMANDA MANOPO",
+      "image":"file:///android_asset/manopo.png",
+      "link":"https://play.google.com/store/apps/details?id=prank.video.call.amanda.manopo.full.offline"
+    },
+    {
+      "id":4,
+      "title":"RIA RICIS",
+      "image":"file:///android_asset/riaricis.png",
+      "link":"https://play.google.com/store/apps/details?id=fake.video.call.dengan.ria.ricis.full.offline.terbaru"
+    },
+    {
+      "id":5,
+      "title":"SULE",
+      "image":"file:///android_asset/sule.png",
+      "link":"https://play.google.com/store/apps/details?id=fake.video.call.dengan.ferdinan.sule.terbaru.offline"
+    },
+    {
+      "id":6,
+      "title":"AYU TING TING",
+      "image":"file:///android_asset/ayu.png",
+      "link":"https://play.google.com/store/apps/details?id=fake.call.wavideo.dengan.ayu.ting.ting.terbaru.offline"
+    },
+    {
+      "id":7,
+      "title":"Habib Al Assegaf",
+      "image":"file:///android_asset/habibalwi.png",
+      "link":"https://play.google.com/store/apps/details?id=fake.video.call.wa.habib.alwi.assegaf.offline"
+    }
+  ],
+  "Item":
+  [
+  {
+    "id":1,
+    "title":"Sayang",
+    "description":"Pacar Rahasia",
+    "image":"file:///android_asset/alienboot/image/okee1.png",
+    "videoid":"indigirl1"
+  },
+  {
+  "id":2,
+  "title":"Sayang",
+  "description":"Pacar Rahasia",
+  "image":"file:///android_asset/alienboot/image/okee2.png",
+  "videoid":"indigirl1"
+  },
+  {
+    "id":3,
+    "title":"Sayang",
+    "description":"Pacar Rahasia",
+    "image":"file:///android_asset/alienboot/image/okee3.png",
+    "videoid":"indigirl1"
+  },
+  {
+  "id":4,
+  "title":"Sayang",
+  "description":"Pacar Rahasia",
+  "image":"file:///android_asset/alienboot/image/okee4.png",
+  "videoid":"indigirl1"
+},
+  {
+  "id":4,
+  "title":"Sayang",
+  "description":"Pacar Rahasia",
+  "image":"file:///android_asset/alienboot/image/okee5.png",
+  "videoid":"indigirl1"
+}
+]
+
+}
